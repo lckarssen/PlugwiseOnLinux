@@ -127,7 +127,7 @@ def main():
 	   macaddress = raw_input()
 	   macaddressidentity = "000D6F00003" + macaddress
 	   command = "MASTER"
-    elif arg == "i":
+    elif arg == "s":
 	   print 
 	   print "Installation Circle"
 	   print "Step 1 :"
